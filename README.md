@@ -6,6 +6,5 @@ Lezione1.1 contains
  - Data type and casting
  - Static and dynamic data
  - Class methods and attributes
- - L' ambiente interattivo Jupyter/Ipython
 
 Lezione1.2 contains
