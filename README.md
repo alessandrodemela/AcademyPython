@@ -8,3 +8,15 @@ Lezione1.1 contains
  - Class methods and attributes
 
 Lezione1.2 contains
+ - Identifier as pointer
+ - Lists as fundamental data type
+ - Tuple, set and dictionaries
+ - Instructions block and control structures
+ - Files in python
+ - Try - except to handle exceptions
+
+Lezione2.1 contains
+ - Functions definition
+ - Classes in python
+ 
+Numpy is a tutorial for the ```numpy``` library
